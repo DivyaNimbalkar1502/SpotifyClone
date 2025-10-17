@@ -1,0 +1,21 @@
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.log
+
+# Node.js stuff (only if you later add npm for dependencies)
+node_modules/
+package-lock.json
+
+# Build/dist output (if you ever bundle)
+dist/
+build/
+
+# Temporary or cache files
+*.tmp
+*.bak
+*.swp
