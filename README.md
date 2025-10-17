@@ -1,7 +1,6 @@
 # 🎧 Spotify Clone  
 
-A sleek, responsive **Spotify Clone** built using modern web technologies. This project replicates the core design and functionality of Spotify’s music player — including playlists, album art, play/pause controls, and dynamic UI elements.  
-
+A sleek, responsive **Spotify Clone** built using modern web technologies. This project replicates the core design of Spotify’s music player.
 ---
 
 ## 🚀 Features  
